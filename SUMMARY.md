@@ -16,6 +16,7 @@
     * [Sentence-level Guidelines](bm/sl.md)
     * [Appendix](bm/appendix.md)
 * [Bengali, Bangladesh (bn-BD)](bn-BD/README.md)
+* [Bulgarian (bg)](bg/README.md)
 * [Chinese, Traditional (zh-TW)](zh-TW/README.md)
 * [Czech (cs)](cs/README.md)
    * [General Style Guide](cs/general.md)
